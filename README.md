@@ -11,7 +11,7 @@
 
 ### 🧑🏻‍💻 구성원
 |팀원|역할|Git|
-|:---:|:---:|:---|
+|:---:|:---:|:---:|
 |곽재우|FE|[jaewoogwak](https://github.com/jaewoogwak)|
 |박세현|BE|[bboxeeee](https://github.com/BBOXEEEE)|
 |조승대|BE|
